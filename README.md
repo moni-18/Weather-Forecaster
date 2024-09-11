@@ -6,6 +6,8 @@
 Install ```npm``` and ```node```
 
 In the project directory, you can run:
+
+
 To install React and other Dependencies ```npm install``` 
 
 ### `npm start`
