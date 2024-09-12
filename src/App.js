@@ -14,7 +14,7 @@ const App = () => {
     setLoading(true);
     setError('');
     try {
-      const apiKey = 'dff7ee4b7e2851b5df22a45fda9ce1ab'; // Replace with your OpenWeatherMap API key
+      const apiKey = 'dff7ee4b7e2851b5df22a45fda9ce1ab'; // OpenWeatherMap API key
       
       // Fetch current weather data
       const currentWeatherResponse = await axios.get(
